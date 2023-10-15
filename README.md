@@ -1,5 +1,5 @@
 # MachineLearning
-Literally dont know what im doing just yet.
+Literally dont know what im doing just yet.//
 Please hold.
 Additionally, if you are reading this and you are not me, then that means I forgot to revise this before making it public.
 But while I have you, please give me a job. 
